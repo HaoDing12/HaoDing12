@@ -1,63 +1,44 @@
-# Hao Ding
+# Hi there, I'm Hao. 👋
 
-M.S. Computer Science student at Northeastern University, focused on backend systems, infrastructure automation, cloud reliability, and systems-oriented software engineering.
+## About me
 
-I am especially interested in the engineering work behind reliable services: Linux-based development, networking, distributed systems, CI/CD, observability, data persistence, and automation that makes workflows safer and easier to operate.
+- 🎓 I'm an M.S. Computer Science student at Northeastern University.
+- 💻 I build backend systems, infrastructure automation, and cloud-native applications.
+- ☁️ I enjoy the engineering behind reliable services: Linux, networking, distributed systems, CI/CD, and observability.
+- 🔐 I'm interested in secure software delivery, failure handling, and production reliability.
+- 🚀 I'm currently exploring software engineering internship and co-op opportunities.
 
-## Technical Focus
+## Programming languages
 
-- Backend systems and API design
-- Linux, networking, and service reliability
-- Distributed systems and cloud infrastructure
-- Infrastructure automation with Terraform, Docker, and CI/CD
-- Observability, health checks, failure handling, and operational tooling
+![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Swift](https://img.shields.io/badge/-Swift-000?style=flat&logo=swift)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql)
 
-## Selected Projects
+## Infrastructure and tools
 
-### [SecureGate - Cloud Security Scanning Platform](https://github.com/HaoDing12/securegate-sast-platform)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonwebservices)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=githubactions)
 
-AWS-based SAST pipeline that scans pull-request JavaScript changes, posts GitHub Actions results, blocks merges on high-severity findings, and stores scan metadata and reports in DynamoDB and S3. My project scope included the Node.js scanner backend, dashboard API, static dashboard, repo isolation, scanner/dashboard linking, and vulnerability alert path.
+## Selected work
 
-Technologies: AWS, Terraform, GitHub Actions, Lambda, EC2, ALB, DynamoDB, S3, SNS, CloudWatch, Docker, Node.js.
+- 🔎 [SecureGate](https://github.com/HaoDing12/securegate-sast-platform) — AWS-based SAST pipeline with merge gates, Terraform infrastructure, scanner workers, and centralized reports.
+- 🌐 [Concurrent Link-State Router](https://github.com/HaoDing12/concurrent-link-state-router) — C++17/Linux router simulator with multithreaded TCP forwarding and Dijkstra routing.
+- ⚙️ [Distributed Task Platform](https://github.com/HaoDing12/distributed-task-platform) — Spring Boot task processing service with PostgreSQL, Redis, Docker, Kubernetes, auth, and health checks.
 
-### [Concurrent Link-State Router Simulator](https://github.com/HaoDing12/concurrent-link-state-router)
+## Other important experience
 
-C++17/Linux router simulator with configurable topologies, Dijkstra shortest-path routing, loopback TCP forwarding, TTL handling, multithreaded packet processing, thread-safe queues, and local integration tests that launch multiple router nodes.
+- I build automated tests, health checks, CI pipelines, and failure-handling paths alongside product features.
+- I have hands-on experience across cloud security, distributed processing, full-stack development, iOS, and applied machine learning.
 
-Technologies: C++, Linux, POSIX sockets, CMake, multithreading, TCP/IP.
-
-### [Distributed Task Management Platform](https://github.com/HaoDing12/distributed-task-platform)
-
-Spring Boot backend for durable task creation, queueing, leasing, and worker processing with PostgreSQL persistence, Redis queue mode, API-key authentication, rate limiting, Docker Compose, Kubernetes manifests, and health checks.
-
-Technologies: Java, Spring Boot, PostgreSQL, Redis, Docker, Kubernetes.
-
-### [Tempus - iOS Wellness and Accountability App](https://github.com/HaoDing12/tempus-ios-wellness-app-public)
-
-Sanitized SwiftUI portfolio repo for an iOS fasting and wellness app with Firebase authentication, Firestore persistence, photo uploads, social accountability views, and AI-assisted recommendations. The public repo intentionally uses example config files only.
-
-Technologies: SwiftUI, Firebase Authentication, Firestore, Firebase Storage, Gemini API integration.
-
-### [English-Chinese Neural Machine Translation](https://github.com/HaoDing12/english-chinese-neural-translation)
-
-PyTorch translation pipeline with TSV data loading, tokenization, vocabulary building, Seq2Seq attention, Transformer baseline, checkpointing, inference CLI, BLEU-style evaluation, and training smoke tests.
-
-Technologies: Python, PyTorch, NLP, Seq2Seq, Transformer.
-
-### [Activity Matching Platform](https://github.com/HaoDing12/activity-matching-platform)
-
-Activity-first social platform with posting, join requests, compatibility scoring, profiles, ratings, notifications, database modeling, unit tests, E2E tests, and CI.
-
-Technologies: Next.js, TypeScript, React, Prisma, PostgreSQL, NextAuth, Vitest, Playwright.
-
-## Currently Focusing On
-
-- Systems programming fundamentals
-- Infrastructure automation
-- Distributed systems
-- Production reliability and observability
-- Backend interview preparation for internship and co-op roles
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/hao-ding-079lz](https://www.linkedin.com/in/hao-ding-079lz/)
+Questions or opportunities? Connect with me on [LinkedIn](https://www.linkedin.com/in/hao-ding-079lz/).
